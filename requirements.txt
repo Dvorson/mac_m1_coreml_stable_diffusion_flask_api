@@ -1,0 +1,7 @@
+coremltools
+diffusers[torch]
+torch
+transformers
+scipy
+flask
+pathlib
