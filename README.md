@@ -44,7 +44,6 @@
 ### Prerequisites
 
 First you need to download a model with download_model.py
-* npm
   ```sh
   python3 download_model.py
   ```
@@ -54,14 +53,17 @@ More on models in <a href="https://github.com/apple/ml-stable-diffusion">the ori
 ### Installation
 
 1. Clone the repo
+
    ```sh
    git clone https://github.com/dvorson/mac_m1_coreml_stable_diffusion_flask_api.git
    ```
 2. Create virtual env 
+
    ```sh
    python3 -m venv /path/to/new/virtual/environment
    ```
 3. Install python packages
+
    ```sh
    pip3 install -r requirements.txt
    ```
